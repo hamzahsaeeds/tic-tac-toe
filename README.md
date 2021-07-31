@@ -2,7 +2,10 @@
 
 This is the game Tic-Tac-Toe's AI based implementation using the minimax algorithm in Python.
 
+The tictactoe.py file contains the logical implementation of this algorithm whereas the runner.py file contains the GUI.
+
 So far I was not able to beat this AI, based on multiple techniques that were used during gameplay.
+
 
 
 A graphical user interface is also added using the Python's module PyGame. Attached herewith are some screenshots taken at various instances of the gameplay:
