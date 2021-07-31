@@ -1,6 +1,10 @@
 # tic-tac-toe
 
-This is the game Tic-Tac-Toe's AI based implementation using the minimax algorithm in Python
+This is the game Tic-Tac-Toe's AI based implementation using the minimax algorithm in Python.
+
+So far I was not able to beat this AI, based on multiple techniques that were used during gameplay.
+
+
 A graphical user interface is also added using the Python's module PyGame. Attached herewith are some screenshots taken at various instances of the gameplay:
 
 ![game1](https://user-images.githubusercontent.com/87268902/127745772-48dd97d5-4c22-4ace-9cbb-16d7733d3a7e.PNG)
