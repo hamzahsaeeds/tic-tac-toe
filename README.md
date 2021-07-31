@@ -7,13 +7,19 @@ A graphical user interface is also added using the Python's module PyGame. Attac
 
 ^ Main screen
 
+
+
 ![game4](https://user-images.githubusercontent.com/87268902/127745785-aafe1a97-9bfd-4a5e-a5de-dcbc9c55ea9e.PNG)
 
 ^ Instance when the computer is computing its optimal move
 
+
+
 ![game2](https://user-images.githubusercontent.com/87268902/127745811-a7ed6079-74d0-4f42-8f40-10fe93391a3b.PNG)
 
 ^ 'X' player's turn it is
+
+
 
 ![game3](https://user-images.githubusercontent.com/87268902/127745821-3e54281b-f113-4947-a671-4c1fe09e192c.PNG)
 
